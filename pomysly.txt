@@ -1,0 +1,17 @@
+<div class="wpis">
+    <h2>poznanie</h2>
+    <p>cos o poznaniu</p>
+    <img src="zdjecie laweczki" alt="Opis zdjęcia">
+</div>
+
+<div class="wpis">
+    <h2>Tytuł Wpisu</h2>
+    <p>Treść wpisu...</p>
+    <img src="link_do_zdjecia" alt="Opis zdjęcia">
+</div>
+
+<div class="wpis">
+    <h2>Tytuł Wpisu</h2>
+    <p>Treść wpisu...</p>
+    <img src="link_do_zdjecia" alt="Opis zdjęcia">
+</div>

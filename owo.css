@@ -1,0 +1,160 @@
+.background {
+    background-color: lavenderblush;
+}
+
+.start {
+    color: black
+}
+
+.ll {
+    color: black;
+}
+
+.iiw {
+    width: 50%; 
+}
+
+.rog {
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+}
+
+.oo {
+    color: black;
+    text-decoration: none;
+    
+}
+
+.zalew {
+    background-color: lavenderblush;
+}
+
+.rog2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+}
+
+.ww {
+    color: black;
+    text-decoration: none;
+    
+}
+
+.reszta {
+    background-color: rgb(246, 165, 192);
+}
+
+.lisopad {
+    font-family: Quicksand;
+}
+
+.bodylistopad{
+    background-color: pink;
+}
+
+.stopkalistopad{
+    position: absolute;
+    top: 0;
+    right: 0;   
+}
+
+.rlfoot{
+    position: absolute;
+    top: 0;
+    right: 0;   
+}
+
+.grudzien{
+    background-color: rgb(248, 180, 231);
+    font-family: Quicksand;
+}
+
+.hrgr{
+    height: 10px;
+    width: 80%;
+   color: palevioletred;
+    background-color: palevioletred
+}
+
+.grudd{
+    background-color: palevioletred;
+}
+
+.footgrudzien{
+    position: absolute;
+    top: 0;
+    right: 0;  
+}
+
+.bodystyczen{
+    font-family: Quicksand;
+    background-color: rgb(211, 159, 224);
+}
+
+.strozwp{
+float: left;
+}
+
+.footstyczen{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.bodyluty{
+    font-family: Quicksand;
+    background-color: lavenderblush;
+}
+
+.startluty{
+    background-color: rgb(161, 6, 161);
+    width: 31%;
+    height: 100px;
+    float: left;
+}
+
+.lutynext{
+    background-color: blueviolet;
+    color: black;
+    width: 31%;
+    margin: 10px;
+    float: left;
+}
+
+.footluty{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.bodymarzec{
+    font-family: Quicksand;
+    background-color: rgb(103, 141, 174);
+}
+
+.hrmarzec{
+    height: 5px;
+    width: 100%;
+   color: rgb(80, 133, 180);
+    background-color: rgb(80, 133, 180);
+}
+
+.footmarzec{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.bodykoniec{
+    background-color: bisque;
+}
+
+.footkoniec{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
